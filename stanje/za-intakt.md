@@ -6,3 +6,6 @@
 <!-- Format stavke:
 - [ ] GGGG-MM-DD · ZADATAK · osoba: sandra|petra · naslov: "..." · rok: GGGG-MM-DD HH:MM · opis: "..." · (kalendar: da/ne)
 -->
+
+- [ ] 2026-10-23 · ZADATAK · osoba: sandra · naslov: "Pregled prijedloga objava 2026-W44" · rok: 2026-10-30 12:00 · opis: "Prijedlog: C:\Work\Objave\tjedni-prijedlog\2026-W44.md. U Claudeu u projektu Objave napiši: pregledaj prijedlog. Tvoje objave: W44-S1 (LinkedIn, najava radionica 3.11./10.11.), W44-S2 (Facebook InTakt, 'najskuplja riječ je otprilike'). Pravilo 48 h vrijedi." · (kalendar: ne)
+- [ ] 2026-10-23 · ZADATAK · osoba: petra · naslov: "Pregled prijedloga objava 2026-W44" · rok: 2026-10-30 12:00 · opis: "Prijedlog: C:\Work\Objave\tjedni-prijedlog\2026-W44.md. U Claudeu u projektu Objave napiši: pregledaj prijedlog. Tvoja objava: W44-P1 (Facebook + grupe, priprema za inventuru). Pitanja za tebe su na dnu prijedloga. Pravilo 48 h vrijedi." · (kalendar: ne)

@@ -5,6 +5,6 @@
 
 | Tjedan | Plan (Sandra / Petra / blog) | Odrađeno | Upiti s mreža | Prijave na radionice s mreža | Napomena |
 |---|---|---|---|---|---|
-| 2026-W44 (26.10.) | 2 / 1 / 0 | | | | prvi tjedan sustava |
+| 2026-W44 (26.10.) | 2 / 1 / 0 | | | | prvi tjedan sustava; prijedlog složen 23.10. (S1 najava radionica, S2 + P1 znanje) |
 
 Povećanje ritma Iskra predlaže kad su 4 tjedna zaredom odrađena po planu (`pravila/teme-i-ritam.md`).

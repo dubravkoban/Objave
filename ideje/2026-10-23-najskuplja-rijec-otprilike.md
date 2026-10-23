@@ -11,7 +11,7 @@ izvor: 'Objave\arhiva\intakt-idea-inbox.md (backlog, „InTakt: Connected operat
 unijela: sandra
 datum_unosa: 2026-10-23
 privola: n/a
-status: nova
+status: u-prijedlogu
 ---
 
 ## Ideja
