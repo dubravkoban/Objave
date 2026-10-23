@@ -14,6 +14,7 @@
 - **Nabrajanje s emoji-točkama** ili podebljanim naslovima u LinkedIn objavi.
 - **Prazne pohvale:** nevjerojatno, fascinantno, izuzetno, revolucionarno.
 - **Engleske riječi kao stil** (insights, mindset, deep dive) kad postoji normalna hrvatska.
+- **Rečenica koju Hrvat ne bi rekla naglas** (Sandra, 23.10.2026.): kalkovi i „prijevodni" izrazi („Idemo na popis" umjesto „inventura", „vodi posao kroz tablice"), krivo složeni frazemi („diže ruke nad" umjesto „digao je ruke od"), uvodi tipa „Stiže onaj dio godine kad…". Provjera: bi li to kolegica rekla u uredu ili na kavi? Ako ne, preformulirati običnim govorom.
 - **Telegrafski hrvatski:** izbačeni „što", „se", objekti („prije nego stane" → „prije nego što ponestane"). Čitaj naglas.
 - **Izmišljene brojke, citati ili korisnici.** Svaka brojka i citat moraju imati izvor u ideji ili u dokumentu iz kojeg je ideja nastala.
 
