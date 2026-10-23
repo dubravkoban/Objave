@@ -23,5 +23,6 @@ Zadnje pokretanje: **2026-10-23** (iskra-tjedan, u pozadini, bez korisnika) za t
 ## Broj skupljenih ideja
 4 nove idejne datoteke; 3 ideje stavljene u prijedlog.
 
-## Git / problemi
-- **PUSH NIJE NAPRAVLJEN.** Repozitorij `C:\Work\Objave` **nema postavljen `git remote` ni upstream granu**, pa `git pull` i `git push` ne rade. Lokalni commit je napravljen, ali promjene nisu na serveru — Petra ih zasad ne vidi. Pitanje za Sandru: postaviti remote (Azure DevOps `ban-tech/BanTech/_git/Objave`)? Vidi odjeljak Pitanja u prijedlogu.
+## Git
+- **Commit i push napravljeni.** `origin` (Azure DevOps `ban-tech/BanTech/_git/Objave`) postoji; `git push` je prošao (`main -> main`), commit „iskra: prijedlog 2026-W44". Petra povlačenjem vidi prijedlog.
+- Napomena: na početku pokretanja grana `main` nije imala postavljen upstream, pa je `git pull` javljao „no tracking information". Sada je upstream postavljen (`git branch --set-upstream-to=origin/main main`) i `git pull` radi.
