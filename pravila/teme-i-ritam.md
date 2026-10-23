@@ -17,6 +17,9 @@
 - Povećanje (cilj: objava svakih dan-dva po osobi) **tek kad 4 tjedna zaredom odrade plan** i kad ona sama kaže da može više. Iskra to prati u `mjerenje/tjedni-broj.md` i u četvrtak predloži povećanje kad je uvjet ispunjen.
 - Omjer: oko **70 % pomaže** (znanje, objašnjenje, primjer korisnika, zakon) i **30 % najave i prodaja**.
 
+### Serija „AI savjet iz prakse" (Sandra, 23.10.2026.)
+Jedna od dvije osnovne Sandrine objave tjedno može biti kratka AI lekcija iz serije (Claude, ChatGPT, AI u procesima), uvijek iz onoga što Sandra stvarno automatizira. Zaliha tema i pravila: `ideje/2026-10-23-serija-ai-savjeti-iz-prakse.md`; `iskra-tjedan` je dopunjuje svaki tjedan.
+
 ### Tjedni s radionicama (dogovoreno sa Sandrom 23.10.2026.)
 Kad u masteru ima više radionica blizu jedna drugoj (npr. studeni 2026.: 3., 5., 10., 12., 17., 19. i 26.11.), osnovni ritam nije dovoljan. Zato:
 - **Osnovne objave ostaju** (Sandra 2 tjedno) i služe za priče i znanje, da profil ne postane oglasna ploča.
