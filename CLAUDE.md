@@ -50,4 +50,4 @@ Ovaj repozitorij dijele **Sandra Ban** i **Petra Ovčarić** (Ban Technologies d
 ## Tko je tko
 - **Sandra**: AI, HR i transparentnost plaća, WMS, skladište, radni nalozi, InTakt; LinkedIn i Facebook InTakta; sandra@ban-technologies.com.
 - **Petra**: računovodstvo, porezi, eRačun, fiskalizacija; prvenstveno Facebook i grupe računovođa; petra@ban-technologies.com. Bio: `_BanTechnologies/Brand/petra-ovcaric-bio.md` (na Sandrinom računalu).
-- Kako odrediti tko radi: `git config user.email`; ako nije jasno, pitaj.
+- Kako odrediti tko radi: `git config user.email` (Sandra: sandra@ban-technologies.com ili sandra.ban.proj@gmail.com; Petra: petra@ban-technologies.com ili petra@intakt-suite.com); ako nije jasno, pitaj.

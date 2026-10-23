@@ -41,14 +41,17 @@ $pf = "$LogDir\prompt-$stamp.txt"
 
 $allowed = "Read,Write,Edit,Glob,Grep,Agent,Skill,WebFetch,WebSearch,ToolSearch,PowerShell,Bash(git:*),Bash(python:*),Bash(ls:*),Bash(cp:*),Bash(mkdir:*),mcp__zoho-mail__ZohoMail_listEmails,mcp__zoho-mail__ZohoMail_SearchEmails,mcp__zoho-mail__ZohoMail_getMessageContent,mcp__zoho-mail__ZohoMail_getMessageDetails,mcp__zoho-mail__ZohoMail_sendEmail"
 $disallowed = "ScheduleWakeup,CronCreate,CronDelete,Monitor,RemoteTrigger,PushNotification,Workflow,SendMessage,Artifact,EnterWorktree"
-$a = @("-p", "--model", "claude-opus-5-5", "--permission-mode", "dontAsk",
+$a = @("-p", "--model", "opus", "--permission-mode", "dontAsk",
        "--allowedTools", "`"$allowed`"", "--disallowedTools", "`"$disallowed`"",
        "--max-budget-usd", $Budget, "--add-dir", "C:\Work",
        "--output-format", "stream-json", "--verbose")
 
 Push-Location $Repo
 try {
-  & git pull --quiet 2>$null
+  # Neuspio pull (nema mreže, nema remotea) ne smije zaustaviti pokretanje; skill to vidi i zapiše.
+  $ErrorActionPreference = "Continue"
+  try { & git pull --quiet 2>&1 | Out-File "$LogDir\pull-$stamp.txt" -Encoding utf8 } catch { }
+  $ErrorActionPreference = "Stop"
   Start-Process -FilePath $Claude -ArgumentList $a -NoNewWindow -Wait `
     -RedirectStandardInput $pf -RedirectStandardOutput "$LogDir\run-$stamp.jsonl" -RedirectStandardError "$LogDir\run-$stamp.err.txt" | Out-Null
 } finally { Pop-Location }
