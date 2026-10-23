@@ -24,6 +24,7 @@ Ovaj repozitorij dijele **Sandra Ban** i **Petra Ovčarić** (Ban Technologies d
 ## Skillovi
 - `/iskra-ideja` ili „pošalji Iskri ..." → nova ideja u `ideje/`.
 - `/iskra-pregled` ili „pregledaj prijedlog" → pregled i odobravanje svojih objava za tjedan; „objavila sam ..."; „može objava" za blog.
+- `/iskra-odmah` ili „na horuk: ...", „hoću sutra objaviti ..." → tema ili blog izvan plana; odmah tekst s istim provjerama, ulazi u plan, ostalo se preslaže (pomiče, ne briše).
 - `/iskra-komentar` ili „komentar: <tekst objave>" → prijedlog komentara na tuđu objavu.
 - `/iskra-tjedan` → slaže prijedlog za idući tjedan (inače ga sam pokreće raspored srijedom navečer na Sandrinom računalu).
 

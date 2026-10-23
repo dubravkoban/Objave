@@ -22,6 +22,7 @@ Kad tekst izmijenite, Iskra zapiše razliku i predloži pravilo („Petra ne otv
 ## Naredbe u Claudeu (u ovom projektu)
 - „pošalji Iskri: ..." → nova ideja
 - „pregledaj prijedlog" → pregled svojih objava
+- „na horuk: ..." → tema ili blog izvan plana (npr. vijest danas); Iskra odmah napiše tekst, ubaci ga u tjedan i po potrebi pomakne neku planiranu objavu (ne briše je)
 - „objavila sam ..." → upis objavljenog
 - „može objava" → objava bloga na web
 - „komentar: <zalijepljena tuđa objava>" → prijedlog komentara (Iskra sama ne otvara LinkedIn ni Facebook)

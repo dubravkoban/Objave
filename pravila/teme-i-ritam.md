@@ -36,6 +36,14 @@ Pravila rasporeda:
 - Radni dani. LinkedIn: utorak do četvrtak, 8:00 do 9:00 ili oko 12:00. Facebook: 9:00 do 11:00 ili 19:00 do 21:00 (grupe navečer).
 - Ovo su polazne pretpostavke; nakon 6 tjedana prilagoditi prema `mjerenje/tjedni-broj.md`.
 
+## Teme „na horuk"
+Sandra ili Petra mogu bilo kad dodati temu ili blog izvan plana (skill `iskra-odmah`). Takva objava:
+- prolazi iste provjere (glas, anti-AI, lektura, izvori);
+- ulazi u kvotu osobe za taj tjedan;
+- ako zbog nje tjedan postane pretrpan ili dođu dvije teške zaredom, **pomiče** se jedna planirana stavka koja nije vezana uz datum (njezin tekst se čuva i ide prvi idući tjedan); ništa se ne briše;
+- najave radionica, rokovi i zakoni s datumom se ne pomiču;
+- promjene u planu druge osobe samo se predlažu, ne rade se bez nje.
+
 ## Pravilo 48 sati
 Tekst koji autorica nije pregledala do 48 sati prije termina **ne objavljuje se**. Vraća se u ideje sa statusom `nova` i bilješkom zašto. Ništa ne visi i ništa ne izlazi nepregledano.
 

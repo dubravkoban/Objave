@@ -17,6 +17,8 @@ Argument (neobavezan): tjedan u obliku `GGGG-Wtt`. Zadano: idući ISO tjedan.
 ## 1. Pregled prošlog i tekućeg tjedna
 Iz `tjedni-prijedlog/` (tekući i prošli tjedan), `objavljeno/dnevnik.md` i `stanje/za-intakt.md`:
 - što je objavljeno, što nije, što je odbijeno, što je **prebačeno** s jedne osobe na drugu;
+- stavke s oznakom `H` (na horuk, skill `iskra-odmah`) računaj u kvotu tjedna u kojem su objavljene; stavke sa `Status: pomaknuto → <ovaj tjedan>` uzmi **prve**, s već napisanim tekstom (samo provjeri je li još aktualan), i one ulaze u kvotu ovog tjedna;
+- ako u prijedlogu za ciljni tjedan već postoje stavke na horuk, ne prepisuj ih: plan složi oko njih;
 - primijeni **pravilo 48 sati** (`pravila/teme-i-ritam.md`): nepregledano vrati u ideje;
 - ako je Petra prebacila temu Sandri (ili obrnuto), osoba koja je predala dobiva u ovom prijedlogu **drugu temu iz svog područja**, da njezin broj objava ostane isti;
 - upiši stanje u `mjerenje/tjedni-broj.md` (plan i odrađeno). Ako su 4 tjedna zaredom odrađena, u Pitanja stavi prijedlog za povećanje ritma.
