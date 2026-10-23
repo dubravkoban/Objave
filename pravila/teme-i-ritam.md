@@ -25,7 +25,8 @@ Kad u masteru ima više radionica blizu jedna drugoj (npr. studeni 2026.: 3., 5.
 - **Osvrt nakon radionice** („što su polaznice pitale", bez imena osim uz privolu) broji se kao priča, ne kao promocija.
 - Najave prate master: prva oko 3 tjedna prije, podsjetnik tjedan prije; kad više radionica pada blizu, Iskra ih spaja.
 - **Omjer 70/30 računa se samo na osnovnim objavama**; objave za radionice idu povrh, ali nikad više od 2 tjedno.
-- Prije svake najave Iskra provjeri `objavljeno/` da ista najava već nije izašla.
+- Prije svake najave Iskra provjeri `objavljeno/` i `C:\Work\_BanTechnologies\Marketing\Post-Drafts\` (ako postoji) da ista najava već nije izašla.
+- **Tko je partner na čemu (Sandra, 23.10.2026.):** radionica „AI za transparentnost plaća" je BT + Danijela Capan; Women in Adria o njoj samo piše članke i **nije suorganizator** (ne pisati „u suradnji s WIA"). Akademiju „Vrati si vrijeme" **zajednički vode** Women in Adria i Ban Technologies.
 - Svaka objava stavlja korisnika i njegov problem u prvi plan, a naše rješenje tek u drugi.
 
 ## Težine
