@@ -9,6 +9,7 @@
 | **Petra** | računovodstvo (poduzetničko i proračunsko), porezi, eRačun, fiskalizacija, rokovi | prvenstveno Facebook, uključujući grupe računovođa; LinkedIn povremeno; blog |
 
 - Stranice BT i InTakt dijele objave osobnih profila kad tema odgovara brendu.
+- **InTakt i na LinkedInu (Sandra, 23.10.2026.):** InTakt teme (skladište, zalihe, radni nalozi, „otprilike", Excel točka loma, priče korisnika) idu i na Sandrin osobni LinkedIn, ne samo na InTakt Facebook stranicu. Osobni profil ima veći doseg od stranice s malo pratitelja, pa InTakt objava u pravilu kreće s LinkedIna i dijeli se na InTakt Facebook (i u grupe kad je čisti savjet). Isto pravilo kao drugdje: korisnik i njegov problem prvi, InTakt jednom i usputno ili u prvom komentaru; omjer 70/30 vrijedi.
 - Ako jedna prebaci temu drugoj, u idućem prijedlogu dobiva **drugu temu iz svog područja** (ne nužno lakšu), da njezin broj objava ostane isti.
 - Dubravko se javno ne spominje. O funkcijama koje razvija pišemo, a o njemu ne.
 
