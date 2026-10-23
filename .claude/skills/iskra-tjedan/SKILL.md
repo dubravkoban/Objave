@@ -59,6 +59,9 @@ Za svaku objavu, u glasu autorice (`glas/<osoba>.md`; za Petru uzmi u obzir da j
 2. Agent `jelena`: lektura. Unesi ispravke.
 3. Tip `zakon`: svaku tvrdnju o propisu provjeri u službenom izvoru i navedi broj NN ili CELEX. Nejasno → objava se ne piše, pitanje ide vlasnici teme.
 4. Ručno: bez em-crtica, Dubravko se ne spominje, nitko nije imenovan bez privole.
+5. **Nema izmišljenih scena ni citata.** Rečenica tipa „Prošli tjedan mi je jedna voditeljica rekla: ..." smije stajati samo ako postoji u ideji, mailu ili dokumentu (navedi izvor u Izvorima). Ako ne postoji, napiši otvaranje bez nje ili ga označi `[PRIMJER: Sandra/Petra, upiši stvaran trenutak]` da ga autorica popuni.
+6. Svaki **prepisani** tekst ponovno prolazi `iskra-citatelj` i lekturu prije zapisa. „Čeka ponovnu provjeru" nije dopušten status u prijedlogu.
+7. Rok pregleda je **48 sati prije prvog termina** u tjednu (ne petak tog tjedna). Ako je prijedlog složen kasno, rok upiši jasno na vrh i u InTakt zadatak.
 
 ## 6. Zapis prijedloga
 Napiši `tjedni-prijedlog/<tjedan>.md`:
