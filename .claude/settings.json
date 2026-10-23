@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__zoho-mail__ZohoCalendar_add_event"
-    ]
-  }
-}
