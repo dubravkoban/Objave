@@ -11,7 +11,7 @@ izvor: na horuk (Sandra, 23.10.2026., u pregledu prijedloga W44)
 unijela: sandra
 datum_unosa: 2026-10-23
 privola: n/a
-status: u-prijedlogu
+status: odobreno
 ---
 
 ## Ideja
