@@ -22,7 +22,7 @@ Stvarna rečenica iz Sandrine okoline, u šali: „Sandrina lijenost je dostigla
 
 ## Primjer
 - Otvaranje citatom („Sandrina lijenost je dostigla nove granice…"), pa samoironično priznanje.
-- Konkretan primjer što je „zadnje automatizirano" (pitati Sandru: što je to bilo kad je rečenica pala?).
+- **Konkretan primjer (Sandra, 23.10.2026.):** rečenica je pala kad Sandri više nije bilo do copy-pastea: AI pomoćnici kolega slali su poruke u zajednički kanal, a ona ih je ručno prepisivala svom AI pomoćniku. Zato su napravili da AI pomoćnici mogu razgovarati međusobno. Za objavu bez žargona (bez „Claude", „ADO", „Slack kanal"): „bila sam poštar između AI pomoćnika", „prepisivala sam poruke iz jednog AI-ja u drugi". Paziti da ne zvuči kao da AI-jevi rade bez nadzora: mi vidimo sve što si pošalju. Kolege ne imenovati (Dubravka ni kao „muža").
 - Razlika: lijenost prema poslu vs. odbijanje ručnog prepisivanja. Rad je isti ili veći, nestalo je samo piskaranje.
 - Završetak: želja da i čitatelji maknu sate administracije koja je sama sebi svrha (može pitanje: „Što vi još radite ručno, a znate da ne biste morali?").
 
