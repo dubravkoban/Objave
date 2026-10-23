@@ -16,6 +16,16 @@
 - **Sandra: 2 objave tjedno. Petra: 1 objava tjedno. Blog: 1 mjesečno** (naizmjence Sandra i Petra, ili prema temi).
 - Povećanje (cilj: objava svakih dan-dva po osobi) **tek kad 4 tjedna zaredom odrade plan** i kad ona sama kaže da može više. Iskra to prati u `mjerenje/tjedni-broj.md` i u četvrtak predloži povećanje kad je uvjet ispunjen.
 - Omjer: oko **70 % pomaže** (znanje, objašnjenje, primjer korisnika, zakon) i **30 % najave i prodaja**.
+
+### Tjedni s radionicama (dogovoreno sa Sandrom 23.10.2026.)
+Kad u masteru ima više radionica blizu jedna drugoj (npr. studeni 2026.: 3., 5., 10., 12., 17., 19. i 26.11.), osnovni ritam nije dovoljan. Zato:
+- **Osnovne objave ostaju** (Sandra 2 tjedno) i služe za priče i znanje, da profil ne postane oglasna ploča.
+- **Uz njih idu do 2 objave tjedno za radionice**, dakle ukupno do 4. I te se pišu **kao priče** (osobni sloj, prizor iz prakse), ne kao suhe najave.
+- **Jedna objava može pokriti više radionica** (npr. „ovaj tjedan u akademiji": 12.11. i 17.11. zajedno), da se ne ponavljamo.
+- **Osvrt nakon radionice** („što su polaznice pitale", bez imena osim uz privolu) broji se kao priča, ne kao promocija.
+- Najave prate master: prva oko 3 tjedna prije, podsjetnik tjedan prije; kad više radionica pada blizu, Iskra ih spaja.
+- **Omjer 70/30 računa se samo na osnovnim objavama**; objave za radionice idu povrh, ali nikad više od 2 tjedno.
+- Prije svake najave Iskra provjeri `objavljeno/` da ista najava već nije izašla.
 - Svaka objava stavlja korisnika i njegov problem u prvi plan, a naše rješenje tek u drugi.
 
 ## Težine

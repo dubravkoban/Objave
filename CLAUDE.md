@@ -45,6 +45,7 @@ Ovaj repozitorij dijele **Sandra Ban** i **Petra Ovčarić** (Ban Technologies d
 
 ## Git
 - Na početku svakog rada `git pull`, na kraju commit s jasnom porukom i `git push`. Male, česte promjene.
+- **Commit i push odmah, bez pitanja** (Sandrina odluka 23.10.2026., vrijedi i za Petru): čim je izmjena gotova (ideja, prijedlog, pravilo, odluka), commitaj i pushaj, da se Sandrina i Petrina kopija ne raziđu. Ne čekati kraj sesije i ne pitati za dopuštenje. (Iznimka: sukob pri `git pull`, vidi niže.)
 - Jedna ideja = jedna datoteka, pa se izmjene dvije osobe ne sudaraju.
 - Ako `git pull` javi sukob, ne rješavaj ga brisanjem tuđih izmjena: pokaži sukob osobi i pitaj.
 
