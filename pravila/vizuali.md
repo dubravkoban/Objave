@@ -5,7 +5,7 @@
 ## Vrste vizuala (odaberi jednu po objavi i obrazloži u jednoj rečenici)
 | Vrsta | Kada | Izvor |
 |---|---|---|
-| **Stvarna fotografija autorice** | osobna priča, refleksija, nastup | Sandra: `C:\Work\Sandra_visuals\` (za stolom, konferencija, `Profile shots\`), `_BanTechnologies\Marketing\Visuals\Meta-Ads-Transparentnost-2026-11\src\sandra-*.jpg`. Petra: **još nema fotografija** (vidi „Otvoreno") |
+| **Stvarna fotografija autorice** | osobna priča, refleksija, nastup | Sandra: `C:\Work\Sandra_visuals\` (konferencija `Conference shot.JPG` i `Conferencce shot 2.JPG` su stvarne; **`Behind deskt 2.jpeg` je generirana AI-jem** (Sandra, 23.10.2026.), a `Behind desk.jpeg` vjerojatno isto, potvrditi; AI slike Sandre smiju samo s vidljivom oznakom „Slika generirana pomoću UI", AI Act čl. 50. st. 4.; `Profile shots\` provjeriti), `_BanTechnologies\Marketing\Visuals\Meta-Ads-Transparentnost-2026-11\src\sandra-*.jpg`. Petra: **još nema fotografija** (vidi „Otvoreno") |
 | **Fotografija s radionice** | najava radionice, dojmovi | `...\Meta-Ads-Transparentnost-2026-11\src\radionica-snimka.jpg`, `Pay-Transparency\Workshop\Paid-Workshop\Slike\` (polaznici zamućeni ili s privolom) |
 | **Snimka ekrana InTakta** | nova funkcija, „kako se radi" | `Intakt-Suite-Marketing\Visuals\intakt-snimke\`, `intakt-module-screenshots-2026-09-16\`, `Landing Page\public\assets\HR\`. Boje snimaka se nikad ne mijenjaju |
 | **Stock fotografija osobe na poslu** | primjer korisnika, problem iz prakse | Pexels, `Intakt-Suite-Marketing\Visuals\_source\_stock\` (57 fotografija, licence u `IZVORI-*.md`). Ljudi prirodnog, europskog izgleda primjerenog hrvatskoj publici; bez tuđih logotipa, natpisa i brendova na odjeći; stock osoba nikad ne „preporučuje" proizvod |
