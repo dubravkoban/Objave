@@ -5,7 +5,7 @@
 
 ## 2026-10-26 · LinkedIn (osobni) · Sandra · ideja: ideje/2026-10-23-akademija-vrati-si-vrijeme-pocetci.md
 **Prijedlog:** tjedni-prijedlog/2026-W44.md#W43-S-H1 (planirano za sub 24.10., objavljeno pon 26.10.)
-**Izmjene autorice:** velike; Sandra je tekst preradila sama (vidi `glas/izmjene/2026-10-26-sandra-akademija.md`). Na zadnjem retku je sama ispravila „Koliko vam vremena"; ostale predložene sitnice u zadnjem retku („drugo pitanje", navodnici „pojede", dvotočka umjesto crtice) nisu potvrđene, tekst ispod je kako ga je poslala uz njezin ispravak.
+**Izmjene autorice:** velike; Sandra je tekst preradila sama (vidi `glas/izmjene/2026-10-26-sandra-akademija.md`). Na zadnjem retku je sama ispravila „Koliko vam vremena"; ostale predložene sitnice u zadnjem retku nisu unesene (Sandra potvrdila 26.10.): objavljeno je „A druge pitanje", ravni navodnici "pojede" i crtica. Tekst ispod je točno kako je objavljen.
 **Tekst kako je objavljen:**
 > Pošalji račune, složi ponudu, odgovori na mailove, pripremi plan, složi izvještaj…
 >
@@ -26,7 +26,7 @@
 > I nisam u tome sama, što mi je i najdraže. Sa mnom su dvije kolegice: Danijela Capan, koja pokriva HR i sigurnost podataka, i Petra Ovčarić, koja pokriva financije. 💛
 >
 > Koliko vam vremena administracija "pojede" dnevno? A druge pitanje je za vašu maštu - što biste sve mogli učiniti s tim vremenom?
-**Prvi komentar:** termin 5.11., link https://www.ban-technologies.com/vrati-si-vrijeme#program-kalendar, kava 17.11., #VratiSiVrijeme #WomenInAdria #umjetnainteligencija #poduzetnice (iz prijedloga; potvrditi) · **Slika:** C:\Work\Sandra_visuals\Conferencce shot 2.JPG (iz prijedloga; potvrditi) · **Odaziv:** (upisati kad se zna)
+**Prvi komentar:** termin 5.11., link https://www.ban-technologies.com/vrati-si-vrijeme#program-kalendar, kava 17.11., #VratiSiVrijeme #WomenInAdria #umjetnainteligencija #poduzetnice (objavljen kako je predložen, potvrdila Sandra) · **Slika:** bez slike · **Odaziv:** (upisati kad se zna)
 
 <!-- Format zapisa:
 ## YYYY-MM-DD · kanal · osoba · ideja: ideje/<datoteka>.md
