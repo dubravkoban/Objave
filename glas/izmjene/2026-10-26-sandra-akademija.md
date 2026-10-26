@@ -22,10 +22,13 @@ Sandra je odobreni tekst (23.10.) sama preradila i objavljuje ga 26.10. (subota 
 >
 > Pa da vas pitam: što biste vi radili s vremenom koje vam danas pojede administracija?
 
-## Što je Sandra promijenila (prijedlog → njezino) i predložena pravila (nepotvrđeno)
+## Što je Sandra promijenila (prijedlog → njezino) i predložena pravila (POTVRĐENO 26.10.2026., Sandra: „zapamti razlike za buduće tekstove"; upisano u glas/sandra.md)
 - Dodala **sigurnost odmah uz AI** („prije nego vam se digne kosa na glavi, anonimizacija i ograničenja pristupa su must") → *pravilo:* kad pišemo da AI ima pristup mailu/dokumentima, u istom dahu reći kako je to osigurano.
 - Dodala **samoironičan humor** („za nas senilnije (nisam! 😄)", „Predali smo rintanje, a ne palicu.") → *pravilo:* Sandra voli jednu šaljivu, samoironičnu opasku u priči; slike iz života (štafeta).
 - Dodala **most između automatizacije i akademije** („bili smo previše entuzijastični… ljudi su nam se počeli obraćati za savjet") → *pravilo:* zašto nešto radimo objasni stvarnim povodom (ljudi su tražili pomoć), ne „željom da podijelimo znanje".
 - **Ublažila apsolute:** „svi živimo" → „svi ponekad živimo"; „Puno puta" → „Par puta"; „velikih apetita" → „velikih želja"; „sve što se smije i pametno" → „sve što ima smisla i što je sigurno".
 - **Maknula** Ivanu Matić iz zahvale i „složite vlastitog AI pomoćnika" → „uštedite dragocjeno vrijeme".
 - Emojija 4 (🙂 😊 😄 💛), više od pravila 1–2; Sandrin izbor u osobnoj priči.
+
+## Konačno objavljeno (26.10.)
+Vidi `objavljeno/dnevnik.md`. Dodatne razlike u odnosu na verziju iznad: „Ista se slika mogla vidjeti… u Ban Technologies" → „Tako je i kod nas izgledalo prije godinu dana."; maknut 🙂; „previše entuzijastični oko cijele situacije" → „Priznajem, ponekad smo bili i previše oduševljeni…"; „proaktivnije podijelimo" → „podijelimo i šire"; Ivana Matić maknuta; novi završetak s dva pitanja.
