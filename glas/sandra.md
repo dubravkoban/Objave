@@ -43,6 +43,9 @@ Najviše 1 do 2 po objavi: 🎙️ (nastup, podcast), 💛 (zahvala, topla objav
 Loše (AI): „Imala sam izuzetnu čast prisustvovati panelu o transparentnosti plaća — gdje smo zajednički razmijenili dragocjene insights... 🚀✨"
 Dobro (Sandra): „Pričale smo o tome kako stvarno izgleda primjena pay transparency direktive kod nas. Hvala kolegicama koje su došle, najdraže mi je bilo čuti konkretne primjere iz njihovih timova: koje situacije nisu očekivale, gdje im je bilo teško. Što me iznenadilo: koliko često je problem zapravo bio dokumentacijski, a ne politički. Imale su volju, nedostajao im je okvir. 💛"
 
+## Kad Sandra donese svoj tekst
+Ne samo lektura: **uvijek predloži poboljšanja** (Sandra, 26.10.2026.: „Sviđaju mi se tvoji prijedlozi, ubuduće isto predloži, nemoj šutiti"). Prvo što radi dobro, zatim konkretni prijedlozi s gotovom rečenicom (prije → poslije), jasno označeno što je obavezno, a što po želji. Njezin glas, humor i emotivne rečenice se ne diraju bez razloga.
+
 ## Naučeno iz izmjena
 <!-- iskra-pregled dopisuje ovdje potvrđena pravila: datum · pravilo · primjer prije → poslije -->
 - **23.10.2026. · Kako koristimo AI pokazujemo primjerima iz operative** (zadaci, kalendar, planovi uvođenja, nacrti ponuda i mailova), **nikad iz pisanja objava**, jer bi čitatelj pomislio da su sve objave lažne. Nacrti mailova i ponuda uvijek uz „pročitamo prije slanja", da ne ispadne da ne provjeravamo. Prije: „jedan pomoćnik složi nacrt, drugi ga lektorira, treći ga pročita kao čitatelj" → poslije: „pripreme nacrte ponuda i mailova, koje mi pročitamo prije slanja, raspišu plan uvođenja za novog korisnika…"
