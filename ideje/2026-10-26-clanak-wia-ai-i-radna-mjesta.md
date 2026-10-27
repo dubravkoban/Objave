@@ -11,7 +11,7 @@ izvor: Sandra, 26.10.2026. („Sutra pišem članak za WIA i akademiju: kako AI 
 unijela: sandra
 datum_unosa: 2026-10-26
 privola: n/a
-status: odobreno
+status: poslano-wia
 ---
 
 ## Ideja
@@ -32,5 +32,5 @@ Treba Sandrino stvarno opažanje (s radionice 7.7., od klijenata ili iz BT-a): �
 
 ## Stanje 27.10.2026.
 - v9 odobren (Sandra), činjenice provjerila dva protuagenta u izvornicima (WEF, Eurostat, AI Act / 2026/1744, NCES/BLS), lektura jelena.
-- Nacrt maila Ivani (WIA) spremljen u Zoho Drafts, NIJE poslan; Word: _BanTechnologies/Marketing/Blog-Drafts/Sandra-Ban-AI-postaje-dio-posla-WIA.docx (Sandra ga dodaje kao privitak).
+- Mail Ivani (WIA) POSLAN 27.10.2026. (Sandra; provjereno u Zoho Sent): članak u tijelu maila, bez privitka. Sandra dodala „dogovoreni članak“ i „Ako imaš neki drugi prijedlog javi.“ (za naslov). Word: _BanTechnologies/Marketing/Blog-Drafts/Sandra-Ban-AI-postaje-dio-posla-WIA.docx.
 - Kad WIA objavi: upisati u objavljeno/dnevnik.md i predložiti LinkedIn objavu za dijeljenje.
