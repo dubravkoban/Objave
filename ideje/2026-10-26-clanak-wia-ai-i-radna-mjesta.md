@@ -11,7 +11,7 @@ izvor: Sandra, 26.10.2026. („Sutra pišem članak za WIA i akademiju: kako AI 
 unijela: sandra
 datum_unosa: 2026-10-26
 privola: n/a
-status: u-prijedlogu
+status: odobreno
 ---
 
 ## Ideja
@@ -29,3 +29,8 @@ Treba Sandrino stvarno opažanje (s radionice 7.7., od klijenata ili iz BT-a): �
 - Ne ponavljati članak o čl. 4.; samo jedna rečenica s poveznicom.
 
 **26.10.2026.:** nacrt v2 (lektura + provjera tona ugrađene): `C:\Work\_BanTechnologies\Marketing\Blog-Drafts\BLOG-DRAFT-wia-sto-poslodavci-ocekuju-ai.md` i .docx za pregled. Naslov odabrala Sandra (br. 2); naslov „Neće vas zamijeniti AI" odbijen jer nije točan.
+
+## Stanje 27.10.2026.
+- v9 odobren (Sandra), činjenice provjerila dva protuagenta u izvornicima (WEF, Eurostat, AI Act / 2026/1744, NCES/BLS), lektura jelena.
+- Nacrt maila Ivani (WIA) spremljen u Zoho Drafts, NIJE poslan; Word: _BanTechnologies/Marketing/Blog-Drafts/Sandra-Ban-AI-postaje-dio-posla-WIA.docx (Sandra ga dodaje kao privitak).
+- Kad WIA objavi: upisati u objavljeno/dnevnik.md i predložiti LinkedIn objavu za dijeljenje.
