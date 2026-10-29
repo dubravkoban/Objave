@@ -17,13 +17,37 @@
 - Iskra priprema tekst slajdova, opis, alt tekst i hashtagove u tjednom prijedlogu (odjeljak „Za Instagram"); prolaze iste provjere kao ostali tekstovi. Iskra ne otvara Instagram.
 - **Mjerenje:** nakon 4 tjedna Insights (spremanja, dijeljenja, posjeti profilu, klikovi na link) u `mjerenje/tjedni-broj.md`. Važni su upiti, ne lajkovi.
 
+## Kako nastaje karusel (sažimanje paketa)
+Cilj je redovitost, ne savršenstvo. Karusel ne traži novu temu: Iskra sažme ključna načela tjedne teme (blog ili LinkedIn objava iz paketa) u slajdove.
+- **Slajd 1:** rečenica koju kaže korisnik ili problem („Otprilike imamo 200 komada."), ne načelo.
+- **Slajdovi 2 do 5:** jedno načelo po slajdu, jedna rečenica, po mogućnosti do 15 riječi, razumljiva bez bloga.
+- **Radnja, ne apstrakcija:** „Prebrojite 5 artikala koje najčešće naručujete", ne „Točnost zaliha je važna".
+- **Zadnji slajd uvijek isti:** „Cijeli tekst: link u opisu profila" + logo.
+- Iskra uz tekst slajdova predloži opis, alt tekst, hashtagove i boju naglaska (dolje).
+- Nakon 4 do 6 tjedana pogledati Insights (spremanja) i prilagoditi.
+
+## Predložak: što je stalno, što se mijenja
+**Uvijek isto** (prepoznatljivost u feedu je važnija od raznolikosti):
+- pozadina tamna `#12141D`;
+- fontovi: Space Grotesk za naslove, DM Sans za tekst;
+- položaj logotipa, raspored naslovnog i zadnjeg slajda;
+- tri vrste slajda u predlošku (Canva ili Figma): naslovni, sadržajni, zadnji.
+
+**Mijenja se tjedno, samo jedan element:**
+- boja naglaska prema području: plava `#0EA5E9` za skladište, zalihe, radne naloge i AI (Sandra); koraljna `#E06C5A` za porez, eRačun i fiskalizaciju (Petra);
+- po želji stvarna fotografija ili snimka ekrana InTakta na naslovnom slajdu, pod tamnim zatamnjenjem; sadržajni slajdovi ostaju čisti.
+
+**Ne:** svaki tjedan druga pozadina, gradijenti, stock teksture, AI pozadine.
+
+Procjena rada nakon što predložak postoji: 20 do 30 minuta tjedno.
+
 ## TODO: postavljanje (jednom, kad krenemo)
 - [ ] Profesionalni račun tipa **Business** (ime npr. „InTakt | program za skladište i radne naloge")
 - [ ] Povezati s InTakt Facebook stranicom u Meta Business Suiteu (raspored objava, zajednički inbox, Insights)
 - [ ] Bio u jednom retku: za koga i koji problem rješava; kategorija; kontakt mail
 - [ ] Link u opisu profila: intakt-suite.com/hr/blog ili jednostavna stranica s linkovima
 - [ ] Profilna slika: InTakt logo (`intakt_logo_white.svg` na tamnoj `#12141D`)
-- [ ] Predložak karusela (Canva ili Figma) u InTakt bojama i fontovima
+- [ ] Predložak karusela (Canva ili Figma): tri vrste slajda, stalni elementi i boje naglaska kao gore
 - [ ] Pripremiti 3 do 4 karusela prije pokretanja, da profil nije prazan (prvi: `predlosci/primjeri/sandra-otprilike.md`)
 - [ ] Istaknute priče (Highlights): Blog, Radionice, O nama
 - [ ] Dodati odjeljak „Za Instagram" u skill `iskra-tjedan` i maknuti oznaku „čeka pokretanje" iz ovog pravila
