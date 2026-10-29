@@ -29,7 +29,8 @@ Ako tema nema dovoljno za blog (kratka refleksija, najava radionice), paket je *
 - Trenutne ključne riječi (InTakt): program za skladište, skladišni program, program za radne naloge, radni nalozi aplikacija, radni nalozi za instalatere, program za montažere, program za ponude i radne naloge, fiskalizacija 2.0 program, eRačun program za obrt, fiskalna blagajna, ERP za male tvrtke, izrada cjenika.
 - Grubo: Sandrine teme pokrivaju skladište, radne naloge, montažere, ERP za male tvrtke; Petrine eRačun, fiskalizaciju, fiskalnu blagajnu, izradu cjenika.
 - Ključna riječ ide u naslov, slug, prvi odlomak i opis (meta description), ali **glas autorice ima prednost** pred gustoćom ključnih riječi. Na mrežama se ključna riječ ne gura.
-- Nakon objave: `seo-monitor indexnow --site intakt --urls <adresa>` (na Sandrinom računalu) i za 4 do 6 tjedana provjera u `gaps` je li članak počeo dobivati prikaze.
+- Unutarnje poveznice (2 do 3 iz novog bloga, barem jedna iz starijeg na novi, opisni tekst poveznice): `pravila/blog-objava.md`.
+- Nakon objave: `seo-monitor indexnow --site intakt --urls <adresa>` (na Sandrinom računalu) i „Zatraži indeksiranje" u Search Consoleu, a za 4 do 6 tjedana provjera u `gaps` je li članak počeo dobivati prikaze.
 
 ## Kalendar
 Kalendar se ne vodi u zasebnoj datoteci nego ostaje u tjednom prijedlogu (`tjedni-prijedlog/<GGGG-Wtt>.md`), s jednim dodatkom: **plan paketa za 6 tjedana** na vrhu svakog prijedloga.
