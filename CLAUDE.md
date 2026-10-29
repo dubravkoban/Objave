@@ -10,7 +10,7 @@ Ovaj repozitorij dijele **Sandra Ban** i **Petra Ovčarić** (Ban Technologies d
 | `ideje/` | jedna datoteka po ideji (`_PREDLOZAK.md`); svi pišu ovamo |
 | `tjedni-prijedlog/<GGGG-Wtt>.md` | prijedlog objava za tjedan: gotovi tekstovi, statusi, odluke |
 | `glas/sandra.md`, `glas/petra.md` | pravila glasa; `glas/izmjene/` su prijedlozi novih pravila iz vaših izmjena |
-| `pravila/` | teme i ritam, težine, anti-AI, GDPR i AI Act, vizuali, blog, komentiranje |
+| `pravila/` | teme i ritam, težine, anti-AI, GDPR i AI Act, vizuali, blog, komentiranje, paket objave, Instagram |
 | `zakoni/` | tko prati koje propise, sažeci izmjena |
 | `predlosci/` | predlošci paketa (blog, LinkedIn, Facebook, Instagram) po autorici i primjeri; pravila u `pravila/paket-objave.md` |
 | `alati/` | ideje za mini alate |

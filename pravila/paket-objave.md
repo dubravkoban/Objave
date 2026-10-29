@@ -60,6 +60,6 @@ Svaki dio paketa prolazi iste provjere kao svaka objava (glas, anti-AI, `iskra-c
 - `predlosci/primjeri/`: popunjeni primjeri; postaju „zlatni uzorci" tek kad ih autorica odobri ili ispravi.
 
 ## Otvoreno
-- Instagram vodi Dubravko (29.10.2026.). Treba dogovoriti kako dobiva odobrene tekstove i slajdove (npr. oznaka „za Instagram" u tjednom prijedlogu).
+- Instagram vodi Dubravko (29.10.2026.); pravila i TODO za pokretanje: `pravila/instagram.md`. Dok nije pokrenut, I se u paketu preskače.
 - Video (Reel): kasnije, kad se dogovori tko i kako snima.
 - EN verzija bloga (altSlug) za koje teme?
