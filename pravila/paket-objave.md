@@ -12,7 +12,7 @@ Svaka nova tema izlazi kao **paket**, ne kao jedna objava. Blog na intakt-suite.
 | F | **Facebook** (InTakt stranica; za Petru i grupe računovođa) | kraće, konkretno, praktično; u grupama bez reklame | 60 do 200 riječi | autorica |
 | I | **Instagram objava** (karusel 5 do 7 slajdova ili jedna kartica) | savjet koji se sprema („spremi za kasnije") | slajd = jedna rečenica | Dubravko vodi Instagram profil InTakta (interno; javno se ne spominje): objavljuje karusel iz pripremljenog teksta i slajdova |
 
-Video (Reel) zasad **nije u planu** (odluka 29.10.2026.); vraća se kad se dogovori snimanje. Iskra i dalje **ne otvara** LinkedIn, Facebook ni Instagram (`pravila/komentiranje.md`): priprema tekstove, autorica objavljuje.
+Video (Reel) zasad **nije u planu** (odluka 29.10.2026.); vraća se kad se dogovori snimanje. Iskra i dalje **ne otvara** LinkedIn, Facebook ni Instagram (`pravila/komentiranje.md`): priprema tekstove; LinkedIn i Facebook objavljuje autorica, Instagram Dubravko.
 
 ## Redoslijed unutar paketa (jedan tjedan)
 1. **Blog** izlazi prvi (pon ili uto), jer svi ostali kanali na njega upućuju.
