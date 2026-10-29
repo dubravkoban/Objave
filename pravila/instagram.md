@@ -10,7 +10,7 @@
 - **Alt tekst** na svakoj slici.
 - **Ritam:** jedan karusel tjedno (iz paketa); Story za dijeljenje novog karusela, ankete i podsjetnike na radionice.
 - **Komentari i poruke:** odgovor unutar jednog dana.
-- **Glazba:** samo iz Meta biblioteke komercijalnih zvukova.
+- **Glazba:** vidi „Formati i tjedni ritam".
 - **Zabranjeno:** kupljeni pratitelji, „follow za follow", snimke zaslona LinkedIn ili Facebook objava, stock s logotipima, AI slike ljudi, podaci klijenata na snimkama InTakta, „Promoviraj" bez cilja (plaćeno samo iz Ads Managera).
 - **AI oznaka:** ako je išta u vizualu generirano AI-jem, oznaka „AI info" i „Generirano pomoću UI" (AI Act čl. 50.).
 - **Dubravko se ne spominje:** bez označavanja osobnog profila i bez potpisa.
@@ -40,6 +40,24 @@ Cilj je redovitost, ne savršenstvo. Karusel ne traži novu temu: Iskra sažme k
 **Ne:** svaki tjedan druga pozadina, gradijenti, stock teksture, AI pozadine.
 
 Procjena rada nakon što predložak postoji: 20 do 30 minuta tjedno.
+
+## Formati i tjedni ritam
+Za početak 1 do 2 objave tjedno; redovitost ispred savršenstva.
+| Format | Kada | Napomena |
+|---|---|---|
+| **Karusel** | 1 tjedno, iz paketa | osnova; vidi „Kako nastaje karusel" |
+| **Jedna slika** | do 1 tjedno, kad ima povoda | šaljiva ili prepoznatljiva rečenica iz posla na tipografskoj kartici; prigodna stvarna fotografija (radionica, konferencija, tim, InTakt prekretnica); citat polaznice uz privolu (`TESTIMONIALS.md`). 5 do 10 minuta rada |
+| **Animirani slajdovi** (Reel bez snimanja) | kasnije, kad je predložak sređen: svaki drugi karusel | isti tekst i predložak, animiran u Canvi (tekst se pojavljuje redak po redak); doseže ljude koji nas još ne prate |
+| **Reel s osobom koja govori** | zasad ne | vraća se kad Sandra ili Petra pristanu snimati |
+
+Iskra uz karusel svaki tjedan predloži i jednu ideju za jednu sliku (iz paketa, `objavljeno/`, radionica iz mastera).
+
+**Za jednu sliku ne:** poznati meme predlošci (tuđa autorska prava), AI slike ljudi, ljudi na fotografiji bez njihova pristanka.
+
+**Glazba** (provjeriti važeće uvjete u Meta Business Help Centeru prije prve upotrebe):
+- Meta Sound Collection i komercijalna glazba u Instagramu su besplatni, ali **samo za objave na Facebooku i Instagramu**.
+- Popularne pjesme iz obične Instagram knjižnice poslovni račun ne smije koristiti (uklanjanje, utišavanje, prijava kršenja prava).
+- Ako isti video ide i na LinkedIn ili web: glazba s širom licencom (Canva Pro, Pixabay Music, YouTube Audio Library; pročitati licencu pjesme) ili bez glazbe. Animirani tekst radi i bez zvuka.
 
 ## TODO: postavljanje (jednom, kad krenemo)
 - [ ] Profesionalni račun tipa **Business** (ime npr. „InTakt | program za skladište i radne naloge")
