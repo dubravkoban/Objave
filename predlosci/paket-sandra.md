@@ -1,6 +1,6 @@
 # Predložak paketa: Sandra
 
-> Glas: `glas/sandra.md` (vrijedi sve iz „Naučeno iz izmjena"). Pravila paketa: `pravila/paket-objave.md`.
+> Glas: `glas/sandra.md` (vrijedi sve iz „Naučeno iz izmjena"). Video (Reel) zasad nije u planu. Instagram objavljuje Dubravko. Pravila paketa: `pravila/paket-objave.md`.
 > Uglate zagrade su mjesta za popuniti. `[PRIMJER: Sandra, ...]` znači da Iskra ne smije izmisliti scenu: upisuje je Sandra ili ostaje prazno.
 
 ```
@@ -10,7 +10,7 @@ tema: [radni naslov]
 ideja: ideje/[datoteka].md
 kljucna_rijec: [iz seo-monitor]
 brend: intakt
-kanali: B L F I R
+kanali: B L F I
 ---
 ```
 
@@ -43,14 +43,6 @@ kanali: B L F I R
 6. Završni: „Cijeli vodič: link u opisu profila" + logo.
 **Opis objave:** 2 do 3 rečenice + „Spremi za inventuru / za idući sastanak".
 
-## R · Reel (30 do 60 s, Sandra u kadru)
-| Vrijeme | Što se vidi | Što Sandra kaže (titl) |
-|---|---|---|
-| 0 do 3 s | Sandra, krupni plan | [udica: rečenica iz scene ili pitanje] |
-| 3 do 20 s | Sandra ili ruke / ekran InTakta | [problem u dvije rečenice] |
-| 20 do 45 s | ekran ili skladište | [jedan savjet s razlogom] |
-| 45 do 60 s | Sandra | [pitanje gledatelju ili callback] |
-**Opis:** jedna rečenica + „link na cijeli tekst u opisu profila". **Snimanje:** mobitel uspravno, dnevno svjetlo, bez podataka klijenata u kadru.
 
 ## Kontrolni popis prije pregleda
 - [ ] Glas: „vi", osobni sloj prije poslovnog, nema korporativnih riječi, ublaženi apsoluti

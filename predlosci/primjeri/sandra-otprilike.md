@@ -4,11 +4,11 @@ tema: Najskuplja riječ je „otprilike"
 ideja: ideje/2026-10-23-najskuplja-rijec-otprilike.md
 kljucna_rijec: program za skladište
 brend: intakt
-kanali: B L F I R
+kanali: B L F I
 status: nacrt za Sandrin pregled (nije prošao iskra-citatelj ni lekturu)
 ---
 
-> Svrha: pokazati kako jedna tema izgleda u svih pet kanala u Sandrinom glasu. Mjesta `[PRIMJER: ...]` popunjava Sandra; ništa nije izmišljeno. Tvrdnja „3 do 8 % marže" iz starog nacrta je izbačena jer nema izvora.
+> Svrha: pokazati kako jedna tema izgleda u sva četiri kanala u Sandrinom glasu. Mjesta `[PRIMJER: ...]` popunjava Sandra; ništa nije izmišljeno. Tvrdnja „3 do 8 % marže" iz starog nacrta je izbačena jer nema izvora.
 
 ## B · Blog
 **Naslov:** „Otprilike imamo 200 komada": koliko košta skladište na procjenu
@@ -59,12 +59,3 @@ Pa da vas pitam: koje je najskuplje „otprilike" u vašem poslu?
 
 **Opis:** Spremite za idući ponedjeljak u skladištu. Koliko vam se brojeva složilo?
 
-## R · Reel (oko 40 s)
-| Vrijeme | Što se vidi | Titl |
-|---|---|---|
-| 0 do 3 s | Sandra, krupni plan | „Otprilike imamo 200 komada." |
-| 3 do 15 s | Sandra | Kad to čujem, znam da nitko ne zna koliko ih ima. Jer isti broj živi na tri mjesta. |
-| 15 do 32 s | ruke broje kutije na polici (bez naljepnica s imenima kupaca) | Jedna provjera za ovaj tjedan: pet artikala koje najčešće naručujete. Prebrojite ih. |
-| 32 do 40 s | Sandra | Ako se ne slaže s tablicom, to nije katastrofa. To je informacija. |
-
-**Snimiti:** mobitel uspravno, polica u našem ili korisnikovom skladištu (uz dopuštenje), dnevno svjetlo.

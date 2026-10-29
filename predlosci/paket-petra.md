@@ -1,6 +1,6 @@
 # Predložak paketa: Petra
 
-> Glas: `glas/petra.md` (početni profil iz jednog uzorka, pravila su hipoteze dok ih Petra ne potvrdi). Pravila paketa: `pravila/paket-objave.md`.
+> Glas: `glas/petra.md` (početni profil iz jednog uzorka, pravila su hipoteze dok ih Petra ne potvrdi). Video (Reel) zasad nije u planu. Instagram objavljuje Dubravko. Pravila paketa: `pravila/paket-objave.md`.
 > `[PRIMJER: Petra, ...]` znači da Iskra ne izmišlja: upisuje Petra. `[PROVJERITI: NN ...]` znači da tvrdnja ne izlazi dok nije provjerena u službenom izvoru.
 > Stručne tvrdnje o računovodstvu i porezima ne idu van bez Petrine potvrde, ni kad ih objavljuje Sandra.
 
@@ -11,7 +11,7 @@ tema: [radni naslov]
 ideja: ideje/[datoteka].md
 kljucna_rijec: [iz seo-monitor, npr. eRačun program za obrt]
 brend: intakt
-kanali: B L F I R      # F uključuje verziju za grupe računovođa
+kanali: B L F I      # F uključuje verziju za grupe računovođa
 propisi: [NN broj/godina, CELEX, link Porezne / FINA-e]
 ---
 ```
@@ -44,14 +44,6 @@ propisi: [NN broj/godina, CELEX, link Porezne / FINA-e]
 2. do 5. Za koga · što treba napraviti · do kada · najčešća greška.
 6. „Izvor: NN [broj]" + „Cijeli tekst: link u opisu profila".
 
-## R · Reel (30 do 60 s)
-Ako Petra ne želi biti u kadru: ruke, papiri bez podataka, ekran InTakta, Petrin glas i titlovi.
-| Vrijeme | Što se vidi | Što Petra kaže (titl) |
-|---|---|---|
-| 0 do 3 s | [Petra ili ruke s računom] | [pitanje klijenta, izravni govor] |
-| 3 do 25 s | | [pravilo u dvije rečenice, od kada i za koga] |
-| 25 do 50 s | | [jedna stvar koju treba napraviti ovaj mjesec] |
-| 50 do 60 s | | [šala ili callback + „pošaljite ovo svom knjigovođi / klijentu"] |
 
 ## Kontrolni popis
 - [ ] Svaka tvrdnja o propisu iz službenog izvora, s brojem NN ili CELEX
