@@ -12,6 +12,7 @@ Ovaj repozitorij dijele **Sandra Ban** i **Petra Ovčarić** (Ban Technologies d
 | `glas/sandra.md`, `glas/petra.md` | pravila glasa; `glas/izmjene/` su prijedlozi novih pravila iz vaših izmjena |
 | `pravila/` | teme i ritam, težine, anti-AI, GDPR i AI Act, vizuali, blog, komentiranje |
 | `zakoni/` | tko prati koje propise, sažeci izmjena |
+| `predlosci/` | predlošci paketa (blog, LinkedIn, Facebook, Instagram, Reel) po autorici i primjeri; pravila u `pravila/paket-objave.md` |
 | `alati/` | ideje za mini alate |
 | `objavljeno/dnevnik.md` | što je zaista objavljeno |
 | `mjerenje/tjedni-broj.md` | jedan broj tjedno: upiti i prijave s mreža |
